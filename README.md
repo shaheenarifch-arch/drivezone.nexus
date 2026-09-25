@@ -1,15 +1,14 @@
 # DriveZone Nexus: GitHub Pages site
 
-## Deploy
-1. Upload everything in this folder (including `CNAME` and `.nojekyll`) to the root of your GitHub repo.
-2. Repo > Settings > Pages > Deploy from branch `main` / root.
-3. At your domain registrar, point `drivezone.nexus` to GitHub Pages (A records 185.199.108-111.153, or a CNAME for `www`).
-4. Tick "Enforce HTTPS" once the certificate is issued.
-5. Submit `https://drivezone.nexus/sitemap.xml` in Google Search Console.
+Every file sits at the top level, so uploading them all together through GitHub's "Upload files" works.
+
+## Pages
+- index.html: home (drivezone.nexus/)
+- about.html, contact.html, privacy.html, terms.html, affiliate-disclosure.html (served at /about, /contact, etc.)
+- 404.html: page-not-found
 
 ## Before launch
-- Social links: search `drivezonenexus` in all .html files and replace with your real profile URLs (Facebook, Instagram, X, YouTube).
+- Social links: search `drivezonenexus` in the .html files and replace with your real Facebook, Instagram, X and YouTube URLs.
 
-## Editing
-- Styles: `assets/site.css` · Scripts and affiliate links used in search/fit check: `assets/main.js`
-- After CSS/JS changes, bump `?v=20260925` in the HTML files so browsers load the new version.
+## After each upload
+- Cloudflare > Caching > Purge Everything.
