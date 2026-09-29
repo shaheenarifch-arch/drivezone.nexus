@@ -65,7 +65,7 @@
     if(!x.checkValidity()){s.textContent='Enter a valid email address.';return}
     if(!c.checked){s.textContent='Please tick the consent box.';return}
     var body='Please add me to DriveZone Nexus updates.\n\nName: '+(nm||'-')+'\nEmail: '+x.value;
-    window.location.href='mailto:agent@getservices.ai?subject='+encodeURIComponent('DriveZone Nexus updates signup')+'&body='+encodeURIComponent(body);
+    window.location.href='mailto:agents@getservices.ai?subject='+encodeURIComponent('DriveZone Nexus updates signup')+'&body='+encodeURIComponent(body);
     s.textContent='Your email app should open. Just hit send and you\'re in.';
   });
 
