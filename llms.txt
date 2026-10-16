@@ -5,12 +5,12 @@
 This site publishes buying guides and product recommendations. Some links are affiliate links; see the affiliate disclosure page.
 
 ## Pages
-- [Shaheen Arif | DriveZone Nexus](https://drivezone.nexus/author/shaheen-arif/): Shaheen Arif is the founder of getservices.ai and the editor of DriveZone Nexus, publishing buying guides about automotive electronics and vehicle accessor
-- [DriveZone | CarPlay, Android Auto & Car Electronics](https://drivezone.nexus/): Compare CarPlay and Android Auto stereos, vehicle-specific head units, dash cameras and car accessories from DriveZone.
+- [DriveZone](https://drivezone.nexus/): Compare CarPlay and Android Auto stereos, vehicle-specific head units, dash cameras and car accessories from DriveZone.
 
 ## Policies
-- [About | DriveZone Nexus](https://drivezone.nexus/about): DriveZone Nexus helps drivers research Android head units, CarPlay, Android Auto, cameras and car audio before they upgrade.
-- [Affiliate Disclosure | DriveZone Nexus](https://drivezone.nexus/affiliate-disclosure): How DriveZone Nexus earns money through affiliate links, through the Awin network.
-- [Contact | DriveZone Nexus](https://drivezone.nexus/contact): Contact DriveZone Nexus about partnerships, corrections or product questions.
-- [Privacy Policy | DriveZone Nexus](https://drivezone.nexus/privacy): How DriveZone Nexus handles information when you visit the site, click partner links or contact us.
-- [Terms of Use | DriveZone Nexus](https://drivezone.nexus/terms): Terms that apply to using the DriveZone Nexus website and its partner links.
+- [About](https://drivezone.nexus/about): DriveZone Nexus helps drivers research Android head units, CarPlay, Android Auto, cameras and car audio before they upgrade.
+- [Affiliate Disclosure](https://drivezone.nexus/affiliate-disclosure): How DriveZone Nexus earns money through affiliate links, through the Awin network.
+- [Contact](https://drivezone.nexus/contact): Contact DriveZone Nexus about partnerships, corrections or product questions.
+- [Privacy Policy](https://drivezone.nexus/privacy): How DriveZone Nexus handles information when you visit the site, click partner links or contact us.
+- [Terms of Use](https://drivezone.nexus/terms): Terms that apply to using the DriveZone Nexus website and its partner links.
+- [Shaheen Arif](https://drivezone.nexus/author/shaheen-arif/): Shaheen Arif is the founder of getservices.ai and the editor of DriveZone Nexus, publishing buying guides about automotive electronics and vehicle accessor
