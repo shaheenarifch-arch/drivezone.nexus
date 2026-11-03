@@ -12,5 +12,19 @@
     "google_quality_passed": true,
     "eeat_score": 100,
     "seo_aeo_score": 9.79
+  },
+  {
+    "keyword": "Car electronics upgrade complete guide: head units, cameras and accessories",
+    "title": "Car Electronics Upgrade Complete Guide",
+    "description": "This car electronics upgrade complete guide: head units, cameras and accessories covers compatibility, installation, costs, and common mistakes to avoid.",
+    "file": "car-electronics-upgrade-complete-guide-head-units-cameras-and-accessories.html",
+    "date": "2026-10-31",
+    "archetype": "authority_guide",
+    "archetype_confidence": 0.97,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 9.09
   }
 ]
