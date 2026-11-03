@@ -1,17 +1,15 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://drivezone.nexus/</loc><lastmod>2026-09-29</lastmod></url>
-  <url><loc>https://drivezone.nexus/about</loc><lastmod>2026-09-29</lastmod></url>
-  <url><loc>https://drivezone.nexus/affiliate-disclosure</loc><lastmod>2026-09-29</lastmod></url>
-  <url><loc>https://drivezone.nexus/contact</loc><lastmod>2026-09-29</lastmod></url>
-  <url><loc>https://drivezone.nexus/privacy</loc><lastmod>2026-09-29</lastmod></url>
-  <url><loc>https://drivezone.nexus/terms</loc><lastmod>2026-09-29</lastmod></url>
-  <url><loc>https://drivezone.nexus/author/shaheen-arif/</loc><lastmod>2026-10-31</lastmod></url><url><loc>https://drivezone.nexus/blog/</loc><lastmod>2026-10-31</lastmod></url><url><loc>https://drivezone.nexus/blog/best-dash-cam-with-night-vision-for-pickup-trucks.html</loc><lastmod>2026-10-19</lastmod></url>  <url>
-    <loc>https://drivezone.nexus/blog/android-auto-head-unit-toyota-camry-2023.html</loc>
-    <lastmod>2026-10-21</lastmod>
-  </url>
-  <url>
-    <loc>https://drivezone.nexus/blog/best-carplay-head-unit-2024-comparison-guide.html</loc>
-    <lastmod>2026-10-23</lastmod>
-  </url>
-<url><loc>https://drivezone.nexus/blog/car-electronics-upgrade-complete-guide-head-units-cameras-and-accessories.html</loc><lastmod>2026-10-31</lastmod></url></urlset>
+  <url><loc>https://drivezone.nexus/</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://drivezone.nexus/about</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://drivezone.nexus/affiliate-disclosure</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://drivezone.nexus/contact/</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://drivezone.nexus/privacy</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://drivezone.nexus/terms</loc><lastmod>2026-11-02</lastmod></url>
+  <url><loc>https://drivezone.nexus/author/shaheen-arif/</loc><lastmod>2026-11-01</lastmod></url>
+  <url><loc>https://drivezone.nexus/blog/</loc><lastmod>2026-11-01</lastmod></url>
+  <url><loc>https://drivezone.nexus/blog/android-auto-head-unit-toyota-camry-2023.html</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://drivezone.nexus/blog/best-carplay-head-unit-2024-comparison-guide.html</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://drivezone.nexus/blog/best-dash-cam-with-night-vision-for-pickup-trucks.html</loc><lastmod>2026-11-01</lastmod></url>
+  <url><loc>https://drivezone.nexus/blog/car-electronics-upgrade-complete-guide-head-units-cameras-and-accessories.html</loc><lastmod>2026-11-01</lastmod></url>
+</urlset>
